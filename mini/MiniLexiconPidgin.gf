@@ -1,7 +1,7 @@
 concrete MiniLexiconPidgin of MiniLexicon = MiniGrammarPidgin ** open Prelude in {
 lin
   already_Adv = ss "already" ;
-  animal_N = ss "animal" ;ß
+  animal_N = ss "animal" ;
   --apple_N : N ;
   --baby_N : N ;
   bad_A = ss "bad" ;
